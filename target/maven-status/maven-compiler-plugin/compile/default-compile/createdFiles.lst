@@ -1,0 +1,6 @@
+br\com\core\BaseTests.class
+br\com\tests\BarrigaTest.class
+tests\cenario\Maisuma.class
+br\com\tests\Movimentacao.class
+br\com\core\Contantes.class
+br\com\core\Template.class
